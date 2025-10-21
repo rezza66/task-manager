@@ -2,7 +2,7 @@ Task Manager App
 A full-stack task management application with real-time notifications, reporting, and team collaboration features.
 
 🚀 Tech Stack
-Backend: Laravel 10, MySQL
+Backend: Laravel 12, MySQL
 
 Frontend: React 18, Vite, Tailwind CSS
 
