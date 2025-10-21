@@ -1,4 +1,3 @@
-Berikut versi **rapi dan siap-paste ke GitHub README.md** kamu — sudah diformat dengan markdown yang rapi dan konsisten:
 
 ---
 
